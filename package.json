@@ -1,0 +1,17 @@
+{
+  "name": "@siva7170/icp-secure-random-generator",
+  "version": "0.0.2",
+  "description": "",
+  "cordova": {
+    "id": "@siva7170/icp-secure-random-generator",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Siva",
+  "license": "ISC"
+}
