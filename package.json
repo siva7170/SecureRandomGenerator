@@ -1,6 +1,6 @@
 {
   "name": "@siva7170/icp-secure-random-generator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "cordova": {
     "id": "@siva7170/icp-secure-random-generator",
