@@ -8,10 +8,20 @@
       "android"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siva7170/SecureRandomGenerator"
+  },
   "keywords": [
-    "ecosystem:cordova",
-    "cordova-android"
+    "secure random generator",
+    "ionic wrapper secure random generator",
+    "ionic random generator",
+    "random generator"
   ],
   "author": "Siva",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siva7170/SecureRandomGenerator/issues"
+  },
+  "homepage": "https://github.com/siva7170/SecureRandomGenerator#readme"
 }
